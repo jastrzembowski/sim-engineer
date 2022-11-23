@@ -4,7 +4,6 @@ import { FaBuilding, FaRocket, FaAward } from "react-icons/fa";
 import {MdOutlineDesignServices, MdHealthAndSafety} from "react-icons/md";
 import {FiMinimize2} from "react-icons/fi";
 import about from "../images/about.webp";
-import fixedbg from "../images/fixed-bg.jpg";
 
 export default function home() {
   return (
